@@ -3,6 +3,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <windows.h>
+//By Nadeem Fayaz
 struct person
 {
     char name[35];
