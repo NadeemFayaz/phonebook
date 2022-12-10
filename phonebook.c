@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #include <windows.h>
 //By Nadeem Fayaz
+
 struct person
 {
     char name[35];
@@ -16,6 +17,7 @@ struct person
     char citision_no[20];
 };
 void menu();
+void nad();
 void got();
 void start();
 void back();
